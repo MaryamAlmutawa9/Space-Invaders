@@ -1,6 +1,6 @@
 # Space invaders
 
-## Date : 5/2/2024
+## Date : 5/9/2024
 
 #### By: Maryam Almutawa
 ---
@@ -17,13 +17,15 @@ Space Invaders is a stationary shooter game in which the player moves a laser ca
 * JavaScript
 
 ### Screenshots
-**image header 1**
+**image index**
 
-![Image]()
+![Image](index.png)
 
-**image header 2**
+**image game**
 
-![Image]()
+![Image](game.png)
+![Image](game2.png)
+![Image](gameover.png)
 
 ### Future Updates
 - [ ] Future Update 1
